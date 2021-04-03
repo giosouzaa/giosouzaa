@@ -1,7 +1,7 @@
 ## Hi there! Bem vinda(o) ao meu perfil!
 
 
-Me chamo Giovanna e tenho 20 anos. Sou entusiasta da programalção e graduanda no 3º ano de bacharelado em física pela UNESP. <br>
+Me chamo Giovanna e tenho 20 anos. Sou entusiasta da programação e graduanda no 3º ano de bacharelado em física pela UNESP. <br>
 📍 Brazil, São Paulo/SP.
 
 ### 🖥️ How to reach me:
